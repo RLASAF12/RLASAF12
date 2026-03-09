@@ -1,7 +1,7 @@
 # Hey, I'm Harel Asaf
 
 **Attorney (6+ years) turned Legal AI builder.**
-I spent years inside law firms and courtrooms. Now I build the tools that make legal services accessible, affordable, and intelligent — so businesses don't have to choose between legal protection and their budget.
+I spent years inside law firms. Now I build the tools that make legal services accessible, affordable, and intelligent — so businesses don't have to choose between legal protection and their budget.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harel-asaf/)
 
